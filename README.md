@@ -41,10 +41,11 @@
 
 ## calendario de evaluaciones
 
-- control 01, 2023-08-25
-- control 02, 
-- control 03, 
-- control 04, 
+- control 01, 2023-08-25 viernes, en horario de ayudantía
+- control 02, 2023-09-29 viernes, en horario de ayudantía
+- control 03, 2023-10-20 viernes, en horario de ayudantía
+- control 04, 2023-11-10 viernes, en horario de ayudantía
+- trabajo de investigación, 2023-01-13/19, en semana de receso
 
 ## calendario detallado
 
@@ -84,14 +85,15 @@
 
 ## notas
 
-la nota final del curso será el promedio simple de estas evaluaciones:
+la nota final del curso tendrá esta ponderación:
 
-- asistencia: inasistencias justificadas por u-cursos cuentan como media asistencia. la nota máxima se logra con al menos un 90% de asistencia.
-- trabajos de investigación: 1 trabajos de investigación individual, hecho durante la semana de receso.
-- controles individuales:
+- controles individuales (50%):
   - 4 controles hechos en horario de ayudantía, uno al final de cada mes agosto, septiembre, octubre y noviembre.
   - cada control tiene 3 ejercicios, el peor se borra
   - de los 3 controles, la peor nota se borra.
+- asistencia (25%): la nota máxima 7.0 se logra con al menos un 90% de asistencia. inasistencias justificadas por u-cursos cuentan como media asistencia.
+- trabajo de investigación (25%): investigación individual, realizado durante la semana de receso.
+
 
 ## bibliografía
 
