@@ -34,7 +34,7 @@ un vector es un objeto geométrico que representa una dirección y un sentido de
 
 el vector de dos dimensiones $\vec{V}$ de coordenadas $(V_x, V_y)$ se grafica de la siguiente manera:
 
-![Alt text](./img/vec.jpg)
+![Alt text](./img/vec.JPG)
 
 #### modulo, magnitud o amplitud de un vector $||\vec{V}||$
 
