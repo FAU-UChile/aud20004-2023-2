@@ -28,6 +28,36 @@ $r$ : distancia entre los centros de ambos cuerpos.
 
 $G = 6.67 \cdot 10^{-11} [\frac{Nm^2}{kg^2}]$ : constante de gravitación universal
 
+### vectores
+
+un vector es un objeto geométrico que representa una dirección y un sentido dentro de un sistema de coordenadas. En general se representa como una flecha.
+
+el vector de dos dimensiones $\vec{V}$ de coordenadas $(V_x, V_y)$ se grafica de la siguiente manera:
+
+![Alt text](./img/vec.jpg)
+
+#### modulo, magnitud o amplitud de un vector $||\vec{V}||$
+
+el módulo o amplitud de un vector nos dice su tamaño. 
+
+$$||\vec{V}|| = \sqrt{V_x^2 + V_y^2}$$
+
+#### vectores unitarios $\hat{V}$
+
+son vectores de modulo igual a 1. 
+
+a todos los vectores se les puede calcular su vector unitario:
+
+$$\hat{V} = \frac{\vec{V}}{||\vec{V}||} $$
+
+#### componentes de un vector
+
+teniendo el ángulo de un vector y su magnitud es posible calcular las componentes del vector utilizando trigonometría.
+
+$$\vec{F} = (F \cdot cos(\alpha), F \cdot sen(\alpha))$$
+
+![Alt text](./img/vector_fuerza.jpg)
+
 
 ## ejercicio-01: unidades de medida
 
@@ -164,6 +194,91 @@ $$F=100[kg] \cdot 1.388[m/s^2]$$
 $$F=138.8[kg \cdot m/s^2]$$ 
 
 $$F=138.8[N]$$ 
+
+
+</details>
+
+## ejercicio-04: fuerza, velocidad y aceleración como vectores
+
+a) si una pelota de basketball se mueve a una velocidad constante de $\vec{v} = (2, 3) [m/s]$, responda:
+
+- ¿cuál es su velocidad en el eje $\hat{x}$ de coordenadas?
+
+- ¿cuál es su velocidad en el eje $\hat{y}$ de coordenadas?
+
+- ¿en qué eje de coordenadas se desplazará más rápido?
+
+- Calcule la velocidad lineal de la pelota.
+
+<details>
+<summary>--- solución ---</summary>
+
+- su velocidad en el eje $\hat{x}$ es de $2 [m/s]$.
+
+- su velocidad en el eje $\hat{y}$ es de $3 [m/s]$.
+
+- se desplazará más rápido en el eje $\hat{y}$ (hacia arriba).
+
+- para encontrar la velocidad lineal de la pelota, calculamos la magnitud del vector velocidad:
+
+$$||\vec{v}|| = \sqrt{v_x^2 + v_y^2}$$
+
+$$||\vec{v}|| = \sqrt{2^2 + 3^2}$$
+
+$$||\vec{v}|| = \sqrt{4 + 9}$$
+
+$$||\vec{v}|| = \sqrt{13}$$
+
+$$||\vec{v}|| \approx 3.605 \ [m/s]$$
+
+</details>
+
+b) si una pelota de tenis de $50[g]$ es golpeada con una fuerza de $20[N]$ con un ángulo de incidencia $60°$.
+
+- Calcule el vector fuerza ejercido a la pelota al momento de ser golpeada.
+
+- ¿En qué eje de coordenadas recibe mayor fuerza?
+
+- Calcule el vector aceleración ejercida en la pelota al momento de ser golpeada.
+
+- Calcule la aceleración lineal ejercida en la pelota al momento de ser golpeada.
+
+<details>
+<summary>--- solución ---</summary>
+
+- para calcular el vector fuerza utilizamos trigonometría:
+
+$$\vec{F} = (F \cdot cos(\alpha), F \cdot sen(\alpha))$$
+
+$$\vec{F} = (20[N] \cdot cos(60°), 20[N] \cdot sen(60°))$$
+
+$$\vec{F} \approx (10, 17.32) [N]$$
+
+- por lo tanto, recibe una fuerza mayor en el eje $\hat{y}$ (hacia arriba).
+
+- para calcular la aceleración, aplicamos la versión vectorial de la segunda ley de newton:
+
+$$\vec{F} = m \cdot \vec{a}$$
+
+$$\vec{a} = \frac{\vec{F}}{m}$$
+
+$$\vec{a} = \frac{(10, 17.32) [N]}{50[g]}$$
+
+$$\vec{a} = \frac{(10, 17.32) [N]}{0.05[kg]}$$
+
+$$\vec{a} = \left(\frac{10[N]}{0.05[kg]}, \frac{17.32[N]}{0.05[kg]}\right)$$
+
+$$\vec{a} = (200[m/s^2], 346[m/s^2])$$
+
+$$\vec{a} = (200, 346) \ [m/s^2]$$
+
+- la aceleración lineal se calcula con el módulo del vector aceleración:
+
+$$||\vec{a}|| = \sqrt{a_x^2 + a_y^2}$$
+
+$$||\vec{a}|| = \sqrt{200^2 + 346^2}$$
+
+$$||\vec{a}|| \approx 400 [m/s^2]$$
 
 
 </details>
