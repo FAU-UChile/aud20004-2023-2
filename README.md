@@ -90,9 +90,9 @@ la nota final del curso tendrá esta ponderación:
 - controles individuales (50%):
   - 4 controles hechos en horario de ayudantía, uno al final de cada mes agosto, septiembre, octubre y noviembre.
   - cada control tiene 3 ejercicios, el peor se borra
-  - de los 3 controles, la peor nota se borra.
+  - de los 4 controles, la peor nota se borra.
 - asistencia (25%): la nota máxima 7.0 se logra con al menos un 90% de asistencia. inasistencias justificadas por u-cursos cuentan como media asistencia.
-- trabajo de investigación (25%): investigación individual, realizado durante la semana de receso.
+- trabajo de investigación (25%): investigación individual, realizado durante la semana de trabajo autónomo.
 
 
 ## bibliografía
