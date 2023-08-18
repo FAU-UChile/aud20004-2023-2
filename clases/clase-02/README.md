@@ -1,7 +1,5 @@
 # clase-02
 
-# clase-03
-
 jueves 17 agosto 2023, presencial
 
 ## repaso clase anterior y programa hoy
@@ -185,6 +183,14 @@ a su vez, si analizamos las ecuaciones de posición en 1D y 2D del estilo:
 $$x(t) = x_0 + v_0 \cdot t + \frac{1}{2} a \cdot t^2$$
 
 podemos ver que
+
+- la posición inicial $x_0$ es el intercepto de la recta x(t) con el eje vertical, donde t=0, nos dice la posición inicial.
+- la velocidad inicial $v_0$ es la pendiente de la recta x(t) en el instante t=0, nos dice la velocidad inicial.
+
+y si nos concentramos en la variable t de tiempo, recordemos que:
+
+- t está multiplicando a la velocidad inicial, y que t al cuadrado está multiplicando a la aceleración
+- por lo tanto, si analizamos cuando t es muy muy grande (positivo o negativo), el término aceleración por tiempo al cuadrado será el dominante.
 
 ## ecuaciones de cinemática sin tiempo en 1D
 
