@@ -322,13 +322,20 @@ $$\vec{F} = (0.150, 0.3)[kg \cdot m/s^2]$$
 $$\vec{F} = (0.150, 0.3)[N]$$
 
 - el vector posición en $t=2[s]$ utilizamos las fórmulas del movimiento uniformemente acelerado pero ahora de forma vectorial.
-
+```math
 $$\vec{x}(t) = \begin{pmatrix} x_{1_{inicial}} + v_{1_{inicial}} \cdot t + \frac{1}{2} \cdot a_1 \cdot t^2 \\ x_{2_{inicial}} + v_{2_{inicial}} \cdot t + \frac{1}{2} \cdot a_2 \cdot t^2  \end{pmatrix}$$
+```
 
+```math
 $$\vec{x}(2[s]) = \begin{pmatrix}0 + 0 \cdot 2[s] + \frac{1}{2} \cdot 1[m/s^2] \cdot (2[s])^2 \\ 0 + 0 \cdot 2[s] + \frac{1}{2} \cdot 2[m/s^2] \cdot (2[s])^2  \end{pmatrix}$$
+```
 
+```math
 $$\vec{x}(2[s]) = \begin{pmatrix}\frac{1}{2} \cdot 1[m/s^2] \cdot 4[s^2] \\ \frac{1}{2} \cdot 2[m/s^2] \cdot 4[s^2]  \end{pmatrix}$$
+```
 
+```math
 $$\vec{x}(2[s]) = \begin{pmatrix}2[m] \\ 4[m] \end{pmatrix}$$
+```
 
 </details>
