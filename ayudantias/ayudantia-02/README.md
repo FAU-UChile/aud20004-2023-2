@@ -1,6 +1,6 @@
-# ayudantía-01
+# ayudantía-02
 
-viernes 11 agosto 2023
+viernes 18 agosto 2023
 
 ## resumen
 
