@@ -304,9 +304,8 @@ c) una bola de billar de $150[g]$ experimenta una aceleración vectorial constan
 
 - Asumiendo que la bola de billar parte en la posición $x=(0,0)[m]$ y velocidad $v=(0,0)[m/s]$, calcule el vector posición de la bola de billar en $t=2[s]$.
 
-<details>
-<summary>--- solución ---</summary>
-    
+--- solución ---
+
 - el vector fuerza se calcula utilizando la versión vectorial de la segunda ley de newton:
 
 $$\vec{F} = m \cdot \vec{a}$$
@@ -322,8 +321,9 @@ $$\vec{F} = (0.150, 0.3)[kg \cdot m/s^2]$$
 $$\vec{F} = (0.150, 0.3)[N]$$
 
 - el vector posición en $t=2[s]$ utilizamos las fórmulas del movimiento uniformemente acelerado pero ahora de forma vectorial.
+
 ```math
-$$\vec{x}(t) = \begin{pmatrix} x_{1_{inicial}} + v_{1_{inicial}} \cdot t + \frac{1}{2} \cdot a_1 \cdot t^2 \\ x_{2_{inicial}} + v_{2_{inicial}} \cdot t + \frac{1}{2} \cdot a_2 \cdot t^2  \end{pmatrix}$$
+\vec{x}(t) = \begin{pmatrix}x_{1_{inicial}} + v_{1_{inicial}} \cdot t + \frac{1}{2} \cdot a_1 \cdot t^2 \\ x_{2_{inicial}} + v_{2_{inicial}} \cdot t + \frac{1}{2} \cdot a_2 \cdot t^2 \end{pmatrix}
 ```
 
 ```math
@@ -337,5 +337,3 @@ $$\vec{x}(2[s]) = \begin{pmatrix}\frac{1}{2} \cdot 1[m/s^2] \cdot 4[s^2] \\ \fra
 ```math
 $$\vec{x}(2[s]) = \begin{pmatrix}2[m] \\ 4[m] \end{pmatrix}$$
 ```
-
-</details>
