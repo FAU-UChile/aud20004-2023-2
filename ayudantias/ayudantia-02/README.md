@@ -185,7 +185,7 @@ $$a = 2 \left[\frac{m}{s^2}\right] $$
 
 c) para dibujar el gráfico de aceleración debemos tomar en cuenta que la aceleración es constante durante todo el intervalo de movimiento. Es decir, dentro de los 10 segundos, siempre vale $a = 2\left[\frac{m}{s^2}\right]$.
 
-![Alt text](./img/a-plot.png)
+![Alt text](img/a-plot.png)
 
 d) para dibujar el gráfico de la velocidad, tomamos la ecuación de la velocidad en el tiempo $v(t)$ para el movimiento uniformemente acelerado y calculamos algunos puntos del gráfico.
 
@@ -205,7 +205,7 @@ $$v(10[s]) = 0[m/s] + 2[m/s^2] \cdot 10[s] \ \rightarrow \ v(10[s]) = 20[m/s]$$
 
 Tomando estos puntos podemos trazar el siguiente gráfico.
 
-![Alt text](./img/v-plot.png)
+![Alt text](img/v-plot.png)
 
 e) para dibujar el gráfico de la posición, tomamos la ecuación de la posición en el tiempo $x(t)$ para el movimiento uniformemente acelerado y calculamos algunos puntos del gráfico.
 
@@ -239,7 +239,7 @@ $$x(9[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 9[s]^2 \ \rightarrow \ x(2[s]) = 81
 
 $$x(10[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 10[s]^2 \ \rightarrow \ x(10[s]) = 100[m]$$
 
-![Alt text](./img/x-plot.png)
+![Alt text](img/x-plot.png)
 
 </details>
 
