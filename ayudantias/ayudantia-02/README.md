@@ -42,8 +42,7 @@ $$g=9.8 \ [m/s^2]$$
 
 Un vehículo de $100[kg]$ de masa se mueve en línea recta a $70[km/h]$. ¿Qué fuerza debe aplicarse en forma constante para que reduzca su velocidad a $20[km/h]$, 10 segundos después de aplicada la fuerza?
 
-<details>
-<summary>--- solución ---</summary>
+### --- solución ---
 
 calculamos la aceleración:
 
@@ -65,8 +64,6 @@ $$F=138.8[kg \cdot m/s^2]$$
 
 $$F=138.8[N]$$ 
 
-</details>
-
 ## ejercicio-02: movimiento uniformemente acelerado I
 
 Un ciclista comienza su paseo matutino y al cabo de 10 segundos su velocidad es de $7.2 \ km/h$. En ese instante ve aproximarse un perro y comienza a frenar durante 6 segundos hasta que la bicicleta se detiene. Calcular:
@@ -77,8 +74,7 @@ b) La aceleración con la que frena la bicicleta.
 
 c) La distancia total recorrida.
 
-<details>
-<summary>--- solución ---</summary>
+### --- solución ---
 
 a) 
 
@@ -136,8 +132,6 @@ $$x(6[s]) = 12 [m] - 5.94[m]$$
 $$x(6[s]) = 6.06 [m]$$
 
 finalmente sumando ambos resultados la distancia final es de $16.06 \ [m]$.
-
-</details>
 
 ## ejercicio-03:  movimiento uniformemente acelerado II
 
