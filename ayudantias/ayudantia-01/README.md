@@ -41,8 +41,7 @@ d) La micro D13 viaja a una velocidad promedio de $12[m/s]$ ¿a cúantos kilóme
 
 e) ¿a cuántos metros por segundo corresponden $120[km/h]$?
 
-<details>
-<summary>--- solución ---</summary>
+### --- solución ---
 
 a) $1230[m]$, $123000[cm]$
 
@@ -53,7 +52,6 @@ c) $138[min]$,  $8280 [seg]$
 d) $12[m/s] \Rightarrow \frac{0.012[m]}{1[s]} \Rightarrow \frac{0.012[m]}{\frac{1}{3600}[h]} \Rightarrow 43.2[km/h]$
 
 e) $120[km/h] \Rightarrow \frac{120000[m]}{1[h]} \Rightarrow \frac{120000[m]}{3600[s]} \Rightarrow 33.3[m/s]$
-</details>
 
 ## ejercicio-02: ley de gravitación universal
 
@@ -62,8 +60,7 @@ a) calcule aproximadamente la fuerza de atracción de gravedad entre la tierra y
 - masa de la luna = $7.35 \cdot 10^{22} \ [kg]$
 - distancia entre la tierra y la luna = $3.84 \cdot 10^{5} \ [km]$
 
-<details>
-<summary>--- solución ---</summary>
+### --- solución ---
 
 $$F_g = G\frac{m_1m_2}{r^2}$$
 
@@ -81,14 +78,11 @@ $$F_g = 19.88 \cdot 10^{19} [N]$$
 
 $$F_g \approx 1.98 \cdot 10^{20} [N]$$
 
-</details>
-
 b) calcule aproximadamente la fuerza de atracción de la tierra sobre una persona de $80[kg]$ sabiendo que:
 - masa de la tierra = $5.98 \cdot 10^{24} \ [kg]$
 - radio promedio de la tierra = $6.37 \cdot 10^{6} \ [m]$
 
-<details>
-<summary>--- solución ---</summary>
+### --- solución ---
 
 $$F_g = G\frac{m_1m_2}{r^2}$$
 
@@ -104,8 +98,6 @@ $$F_g = \frac{33903.61}{40.5769} \ [N]$$
 
 $$F_g \approx 835.54 \ [N]$$
 
-</details>
-
 ## ejercicio-03: fuerza, masa y aceleración
 
 a) ¿cuál es la masa de un cuerpo que, estando en reposo, al recibir una fuerza de $10 [N]$ adquiere una aceleración de $20[m/s^2]$?
@@ -114,9 +106,7 @@ b) Un objeto de $5[kg]$ tiene una velocidad de $10[m/s]$ y se le aplica una fuer
 
 c) Un vehículo de $100[kg]$ de masa se mueve en línea recta a $70[km/h]$. ¿Qué fuerza debe aplicarse en forma constante para que reduzca su velocidad a $20[km/h]$ durante los siguientes 10 segundos de aplicada la fuerza?
 
-
-<details>
-<summary>--- solución ---</summary>
+### --- solución ---
 
 a) 
 
@@ -164,7 +154,3 @@ $$F=100[kg] \cdot 1.388[m/s^2]$$
 $$F=138.8[kg \cdot m/s^2]$$ 
 
 $$F=138.8[N]$$ 
-
-
-</details>
-
