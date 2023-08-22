@@ -38,28 +38,6 @@ $$F_g = G\frac{m_1m_2}{r^2}$$
 
 $$g=9.8 \ [m/s^2]$$
 
-### vectores
-
-un vector es un objeto geométrico que representa una dirección y un sentido dentro de un sistema de coordenadas. En general se representa como una flecha.
-
-el vector de dos dimensiones $\vec{V}$ de coordenadas $(V_x, V_y)$ se grafica de la siguiente manera: 
-
-![Alt text](./img/vec.JPG)
-
-#### modulo, magnitud o amplitud de un vector $||\vec{V}||$
-
-el módulo o amplitud de un vector nos dice su tamaño. 
-
-$$||\vec{V}|| = \sqrt{V_x^2 + V_y^2}$$
-
-#### componentes de un vector
-
-teniendo el ángulo de un vector y su magnitud es posible calcular las componentes del vector utilizando trigonometría.
-
-$$\vec{F} = (F \cdot cos(\alpha), F \cdot sen(\alpha))$$
-
-![Alt text](./img/vector_fuerza.jpg)
-
 ## ejercicio-01: fuerza, masa y aceleración
 
 Un vehículo de $100[kg]$ de masa se mueve en línea recta a $70[km/h]$. ¿Qué fuerza debe aplicarse en forma constante para que reduzca su velocidad a $20[km/h]$, 10 segundos después de aplicada la fuerza?
@@ -178,7 +156,7 @@ e) grafique su posición en el tiempo.
 <details>
 <summary>--- solución ---</summary>
 
-a)
+a) la velocidad promedio es:
 
 $$v = \frac{100 [m] - 0 [m]}{10[s] - 0[s]}$$
 
@@ -186,7 +164,7 @@ $$v = \frac{100 [m]}{10[s]}$$
 
 $$v = 10\left[\frac{m}{s}\right]$$
 
-b)
+b) la aceleración es:
 
 $$x(t) = x_{inicial} + v_{inicial} \cdot t + \frac{1}{2} \cdot a \cdot t^2 $$
 
@@ -204,136 +182,64 @@ $$a = \frac{2 \cdot 100[m]}{100[s^2]} $$
 
 $$a = 2 \left[\frac{m}{s^2}\right] $$
 
-c) el gráfico se realizó en clases
 
-d) el gráfico se realizó en clases
+c) para dibujar el gráfico de aceleración debemos tomar en cuenta que la aceleración es constante durante todo el intervalo de movimiento. Es decir, dentro de los 10 segundos, siempre vale $a = 2\left[\frac{m}{s^2}\right]$.
 
-e) el gráfico se realizó en clases
+![Alt text](./img/a-plot.png)
 
-</details>
+d) para dibujar el gráfico de la velocidad, tomamos la ecuación de la velocidad en el tiempo $v(t)$ para el movimiento uniformemente acelerado y calculamos algunos puntos del gráfico.
 
-## ejercicio-04: fuerza, velocidad y aceleración como vectores
+$$v(t) = v_{inicial} + a \cdot t$$
 
-a) si una pelota de basketball se mueve a una velocidad constante de $\vec{v} = (2, 3) [m/s]$, responda:
+$$v(0[s]) = 0 [m/s] + 2[m/s^2] \cdot 0[s] \ \rightarrow \ v(0[s]) = 0$$
 
-- ¿cuál es su velocidad en el eje $\hat{x}$ de coordenadas?
+$$v(1[s]) = 0[m/s] + 2[m/s^2] \cdot 1[s] \ \rightarrow \ v(1[s]) = 2[m/s]$$
 
-- ¿cuál es su velocidad en el eje $\hat{y}$ de coordenadas?
+$$v(2[s]) = 0[m/s] + 2[m/s^2] \cdot 2[s] \ \rightarrow \ v(2[s]) = 4[m/s]$$
 
-- ¿en qué eje de coordenadas se desplazará más rápido?
+$$v(4[s]) = 0[m/s] + 2[m/s^2] \cdot 4[s] \ \rightarrow \ v(4[s]) = 8[m/s]$$
 
-- Calcule la velocidad lineal de la pelota.
+$$v(8[s]) = 0[m/s] + 2[m/s^2] \cdot 8[s] \ \rightarrow \ v(8[s]) = 16[m/s]$$
 
-<details>
-<summary>--- solución ---</summary>
+$$v(10[s]) = 0[m/s] + 2[m/s^2] \cdot 10[s] \ \rightarrow \ v(10[s]) = 20[m/s]$$
 
-- su velocidad en el eje $\hat{x}$ es de $2 [m/s]$.
+Tomando estos puntos podemos trazar el siguiente gráfico.
 
-- su velocidad en el eje $\hat{y}$ es de $3 [m/s]$.
+![Alt text](./img/v-plot.png)
 
-- se desplazará más rápido en el eje $\hat{y}$ (hacia arriba).
+e) para dibujar el gráfico de la posición, tomamos la ecuación de la posición en el tiempo $x(t)$ para el movimiento uniformemente acelerado y calculamos algunos puntos del gráfico.
 
-- para encontrar la velocidad lineal de la pelota, calculamos la magnitud del vector velocidad:
+$$x(t) = x_{inicial} + v_{inicial} \cdot t + \frac{1}{2} \cdot a \cdot t^2 $$
 
-$$||\vec{v}|| = \sqrt{v_x^2 + v_y^2}$$
+en este caso $x_{inicial}=0[m]$ y $v_{inicial}=0[m/s]$, por lo que la ecuación queda:
 
-$$||\vec{v}|| = \sqrt{2^2 + 3^2}$$
+$$x(t) = \frac{1}{2} \cdot a \cdot t^2 $$
 
-$$||\vec{v}|| = \sqrt{4 + 9}$$
+calculamos el valor de esta ecuación para distintos valores de $t$.
 
-$$||\vec{v}|| = \sqrt{13}$$
+$$x(0[s]) = \frac{1}{2} \cdot 2[m/s] \cdot 0[s]^2 \ \rightarrow \ x(0[s]) = 0[m]$$
 
-$$||\vec{v}|| \approx 3.605 \ [m/s]$$
+$$x(1[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 1[s]^2 \ \rightarrow \ x(1[s]) = 2[m]$$
 
-</details>
+$$x(2[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 2[s]^2 \ \rightarrow \ x(2[s]) = 4[m]$$
 
-b) si una pelota de tenis de $50[g]$ es golpeada con una fuerza de $20[N]$ con un ángulo de incidencia $60°$.
+$$x(3[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 3[s]^2 \ \rightarrow \ x(2[s]) = 9[m]$$
 
-- Calcule el vector fuerza ejercido a la pelota al momento de ser golpeada.
+$$x(4[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 4[s]^2 \ \rightarrow \ x(2[s]) = 16[m]$$
 
-- ¿En qué eje de coordenadas recibe mayor fuerza?
+$$x(5[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 5[s]^2 \ \rightarrow \ x(2[s]) = 25[m]$$
 
-- Calcule el vector aceleración ejercida en la pelota al momento de ser golpeada.
+$$x(6[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 6[s]^2 \ \rightarrow \ x(2[s]) = 36[m]$$
 
-- Calcule la aceleración lineal ejercida en la pelota al momento de ser golpeada.
+$$x(7[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 7[s]^2 \ \rightarrow \ x(2[s]) = 49[m]$$
 
-<details>
-<summary>--- solución ---</summary>
+$$x(8[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 8[s]^2 \ \rightarrow \ x(2[s]) = 64[m]$$
 
-- para calcular el vector fuerza utilizamos trigonometría:
+$$x(9[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 9[s]^2 \ \rightarrow \ x(2[s]) = 81[m]$$
 
-$$\vec{F} = (F \cdot cos(\alpha), F \cdot sen(\alpha))$$
+$$x(10[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 10[s]^2 \ \rightarrow \ x(10[s]) = 100[m]$$
 
-$$\vec{F} = (20[N] \cdot cos(60°), 20[N] \cdot sen(60°))$$
-
-$$\vec{F} \approx (10, 17.32) [N]$$
-
-- por lo tanto, recibe una fuerza mayor en el eje $\hat{y}$ (hacia arriba).
-
-- para calcular la aceleración, aplicamos la versión vectorial de la segunda ley de newton:
-
-$$\vec{F} = m \cdot \vec{a}$$
-
-$$\vec{a} = \frac{\vec{F}}{m}$$
-
-$$\vec{a} = \frac{(10, 17.32) [N]}{50[g]}$$
-
-$$\vec{a} = \frac{(10, 17.32) [N]}{0.05[kg]}$$
-
-$$\vec{a} = \left(\frac{10[N]}{0.05[kg]}, \frac{17.32[N]}{0.05[kg]}\right)$$
-
-$$\vec{a} = (200[m/s^2], 346[m/s^2])$$
-
-$$\vec{a} = (200, 346) \ [m/s^2]$$
-
-- la aceleración lineal se calcula con el módulo del vector aceleración:
-
-$$||\vec{a}|| = \sqrt{a_x^2 + a_y^2}$$
-
-$$||\vec{a}|| = \sqrt{200^2 + 346^2}$$
-
-$$||\vec{a}|| \approx 400 [m/s^2]$$
-
+![Alt text](./img/x-plot.png)
 
 </details>
 
-
-c) una bola de billar de $150[g]$ experimenta una aceleración vectorial constante $\vec{a} = (1,2)[m/s^2]$.
-
-- Calcule el vector fuerza que experimenta.
-
-- Asumiendo que la bola de billar parte en la posición $x=(0,0)[m]$ y velocidad $v=(0,0)[m/s]$, calcule el vector posición de la bola de billar en $t=2[s]$.
-
---- solución ---
-
-- el vector fuerza se calcula utilizando la versión vectorial de la segunda ley de newton:
-
-$$\vec{F} = m \cdot \vec{a}$$
-
-$$\vec{F} = 150[g] \cdot (1,2)[m/s^2]$$
-
-$$\vec{F} = 0.150[kg] \cdot (1,2)[m/s^2]$$
-
-$$\vec{F} = (0.150[kg],2 \cdot 0.150[kg])[m/s^2]$$
-
-$$\vec{F} = (0.150, 0.3)[kg \cdot m/s^2]$$
-
-$$\vec{F} = (0.150, 0.3)[N]$$
-
-- el vector posición en $t=2[s]$ utilizamos las fórmulas del movimiento uniformemente acelerado pero ahora de forma vectorial.
-
-```math
-\vec{x}(t) = \begin{pmatrix}x_{1_{inicial}} + v_{1_{inicial}} \cdot t + \frac{1}{2} \cdot a_1 \cdot t^2 \\ x_{2_{inicial}} + v_{2_{inicial}} \cdot t + \frac{1}{2} \cdot a_2 \cdot t^2 \end{pmatrix}
-```
-
-```math
-$$\vec{x}(2[s]) = \begin{pmatrix}0 + 0 \cdot 2[s] + \frac{1}{2} \cdot 1[m/s^2] \cdot (2[s])^2 \\ 0 + 0 \cdot 2[s] + \frac{1}{2} \cdot 2[m/s^2] \cdot (2[s])^2  \end{pmatrix}$$
-```
-
-```math
-$$\vec{x}(2[s]) = \begin{pmatrix}\frac{1}{2} \cdot 1[m/s^2] \cdot 4[s^2] \\ \frac{1}{2} \cdot 2[m/s^2] \cdot 4[s^2]  \end{pmatrix}$$
-```
-
-```math
-$$\vec{x}(2[s]) = \begin{pmatrix}2[m] \\ 4[m] \end{pmatrix}$$
-```
