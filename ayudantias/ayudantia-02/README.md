@@ -153,8 +153,7 @@ d) grafique su velocidad en el tiempo.
 
 e) grafique su posición en el tiempo.
 
-<details>
-<summary>--- solución ---</summary>
+### --- solución ---
 
 a) la velocidad promedio es:
 
@@ -241,5 +240,4 @@ $$x(10[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 10[s]^2 \ \rightarrow \ x(10[s]) =
 
 ![Alt text](./img/x-plot.png)
 
-</details>
 
