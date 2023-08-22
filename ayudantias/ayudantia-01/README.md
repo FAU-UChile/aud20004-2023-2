@@ -104,8 +104,6 @@ a) ¿cuál es la masa de un cuerpo que, estando en reposo, al recibir una fuerza
 
 b) Un objeto de $5[kg]$ tiene una velocidad de $10[m/s]$ y se le aplica una fuerza de $20[N]$ por 5 segundos ¿qué aceleración experimentará durante esos 5 segundos? ¿Cuál será su velocidad final?
 
-c) Un vehículo de $100[kg]$ de masa se mueve en línea recta a $70[km/h]$. ¿Qué fuerza debe aplicarse en forma constante para que reduzca su velocidad a $20[km/h]$ durante los siguientes 10 segundos de aplicada la fuerza?
-
 ### --- solución ---
 
 a) 
@@ -137,20 +135,3 @@ $$a= 4[m/s^2]$$
 
 por lo tanto, experimentará una aceleración de $4[m/s^2]$, lo que significa que cada segundo su velocidad aumentará $4[m/s]$. Eso quiere decir que en 5 segundos su velocidad aumentará $20[m/s]$ y su velocidad final será de $30[m/s]$.
 
-c) se debe aplicar una fuerza para bajar la velocidad $50[km/h]$ en $10[seg]$.
-
-$$a=\frac{50[km/h]}{10[seg]}$$ 
-
-$$a=\frac{13.88[m/s]}{10[s]}$$ 
-
-$$a=1.388[m/s^2]$$ 
-
-por lo tanto la fuerza requerida es:
-
-$$F=m \cdot a$$ 
-
-$$F=100[kg] \cdot 1.388[m/s^2]$$ 
-
-$$F=138.8[kg \cdot m/s^2]$$ 
-
-$$F=138.8[N]$$ 
