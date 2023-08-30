@@ -1,6 +1,6 @@
 # clase-05
 
-jueves 06 septiembre 2023, presencial
+jueves 07 septiembre 2023, presencial
 
 unidad 3: energía y cantidad de movimiento
 
