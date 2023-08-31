@@ -91,7 +91,7 @@ la nota final del curso tendrá esta ponderación:
   - 4 controles hechos en horario de ayudantía, uno al final de cada mes agosto, septiembre, octubre y noviembre.
   - cada control tiene 3 ejercicios, el peor se borra
   - de los 4 controles, la peor nota se borra.
-- asistencia (25%): la nota máxima 7.0 se logra con al menos un 90% de asistencia. inasistencias justificadas por u-cursos cuentan como media asistencia.
+- asistencia (25%): la nota máxima 7.0 se logra con al menos un 90% de asistencia. para demostrar asistencia tienen que subir una foto de sus apuntes al foro de u-cursos, máximo una semana después de la clase o ayudantía. inasistencias justificadas por sistema de correo u-cursos cuentan como media asistencia.
 - trabajo de investigación (25%): investigación individual, realizado durante la semana de trabajo autónomo.
 
 
