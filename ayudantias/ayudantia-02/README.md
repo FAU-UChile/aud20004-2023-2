@@ -36,7 +36,7 @@ $$F_g = G\frac{m_1m_2}{r^2}$$
 
 ### aceleración de gravedad
 
-$$g=9.8 \ [m/s^2]$$
+$$g = 9.8 \ [m/s^2]$$
 
 ## ejercicio-01: fuerza, masa y aceleración
 
