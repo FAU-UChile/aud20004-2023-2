@@ -208,10 +208,4 @@ calcule la aceleración del cuerpo.
 
 ![Alt text](./img/ayud04-ej04.jpg)
 
-## ejercicio-05
 
-necesito subir un piano de $150[kg]$ a un departamento a través de una rampa con una inclinación de $20°$ y coeficiente de roce $\mu=0.2$. 
-
-¿Qué fuerza mínima debo aplicar para compensar la fuerza de peso $\vec{W}$ y de roce $\vec{F_r}$, y poder empezar a subir el piano?
-
-![Alt text](./img/ayud04-ej05.jpg)
