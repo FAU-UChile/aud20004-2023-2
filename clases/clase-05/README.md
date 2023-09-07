@@ -127,9 +127,16 @@ pensaremos la energía cinética como energía asociada a la velocidad de un cue
 
 la energía en un sistema no se crea ni se destruye, solamente se transforma.
 
-por ejemplo, si tenemos un cuerpo a nivel del suelo, y definimos al suelo como altura = 0, podemos decir que la energía total en un sistema que solamente observa a ese cuerpo es:
+por ejemplo, si tenemos un cuerpodefinimos al suelo como altura = 0, podemos decir que la energía total en un sistema que solamente observa a ese cuerpo es:
 
 $$E_{cuerpo} = E_{potencial} + E_{cinética} = m \cdot g \cdot h + \frac{1}{2} \cdot m \cdot v^2$$
+
+donde
+
+- m = masa del cuerpo
+- g = aceleración de gravedad
+- h = altura posición del cuerpo (h del inglés height, altura)
+- v = velocidad del cuerpo
 
 ## conservación de energía en un cuerpo en caída libre
 
@@ -166,8 +173,6 @@ y aplicando raíz cuadrada a ambos lados para despejar la velocidad:
 $$ v = \sqrt{2 \cdot g \cdot h}$$
 
 y con esto podemos darnos cuenta que a mayor altura inicial o mayor gravedad, la velocidad final cuando se llega al suelo es mayor, y que no depende de la masa del cuerpo!
-
-la estrategia para
 
 ## caloría como medida de energía
 
