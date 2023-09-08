@@ -18,6 +18,18 @@ necesito subir un piano de $150[kg]$ a un departamento a través de una rampa co
 
 ## ejercicio-02
 
+un saco de cemento de $50[kg]$ cuelga en equilibrio estático como en la siguiente figura:
+
+![Alt text](./img/ej2.jpg)
+
+Calcule la tensión entre las cuerdas $T1$, $T2$ y $T3$.
+
+### --- solución ---
+
+![Alt text](./img/ej2.1.jpg)
+
+![Alt text](./img/ej2.2.jpg)
+
 ## ejercicio-03
 
 desde el suelo se lanza verticalmente hacia arriba una pelota de masa $m=10[kg]$ y velocidad inicial $v_i = 30 [m/s]$.
