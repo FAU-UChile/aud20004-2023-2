@@ -1,4 +1,4 @@
-# ayudantía-04
+# ayudantía-05
 
 viernes 8 septiembre 2023
 
@@ -44,28 +44,3 @@ b) la altura máxima que alcanza la pelota.
 
 ![Alt text](./img/ayud05-ej03.jpg)
 
-## ejercicio-04
-
-Una pelota de $500 [gr]$ se deja caer desde una altura de $1.5[m]$. Sabemos que cada vez que rebota pierde el 15% de su energía mecánica.
-
-calcule:
-
-a) la energía de la pelota en el momento inicial.
-
-b) la altura máxima que alcanza la pelota después del primer bote.
-
-### --- solución ---
-
-![Alt text](./img/ayud05-ej04.jpg)
-
-## ejercicio-05
-
-una grúa eleva un bloque de $50[kg]$ a una altura de $8[m]$ en $4[s]$.
-
-a) ¿Qué trabajo realizó la grúa?
-
-b) ¿Qué potencia tiene la grúa? expreselo en KiloWatts.
-
-### --- solución ---
-
-![Alt text](./img/ayud05-ej05.jpg)
