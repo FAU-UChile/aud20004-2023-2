@@ -11,7 +11,7 @@
 - semestre: segundo semestre 2023
 - profesore: [aarón montoya-moraga](https://github.com/montoyamoraga)
 - ayudante: [ignacio passalacqua](https://github.com/ipassala)
-- estudiantes inscritos: 50
+- estudiantes inscritos: 55
 
 ## repositorio
 
