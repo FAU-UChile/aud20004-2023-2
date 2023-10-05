@@ -188,7 +188,7 @@ la escala Fahrenheit tiene estos hitos:
 
 esto lleva a que:
 
-$$C = \frac{5}{9} (F - 32}$$
+$$C = \frac{5}{9} \cdot (F - 32)$$
 
 $$-40 C = -40 F$$
 
