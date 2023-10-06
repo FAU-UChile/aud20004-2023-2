@@ -1,6 +1,6 @@
 # clase-06
 
-jueves 21 agosto 2023, presencial
+jueves 21 septiembre 2023, presencial
 
 unidad 4: dinámica y cinemática de cuerpo rígido
 
