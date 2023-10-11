@@ -110,14 +110,14 @@ todos los cuerpos tienen una capacidad calórica, que es la cantidad necesaria d
 
 ## transferencia de calor
 
-la ecuación de transferencia de calor postula que el la transferencia de calor Q de un cuerpo está dada por el producto entre su masa, su capacidad calórica específica, y la diferencia de temperatura.
+la ecuación de transferencia de calor postula que la transferencia de calor Q de un cuerpo está dada por el producto entre su masa, su capacidad calórica específica, y la diferencia de temperatura.
 
 $$Q = m \cdot c \cdot \Delta T$$
 
 las unidades son:
 
 - Q: calor (J)
-- m: masa, (kg)
+- m: masa (kg)
 - c: capacidad calórica específica (J/(kg K))
 - T: temperatura (K)
 
