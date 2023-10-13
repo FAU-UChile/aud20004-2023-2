@@ -1,5 +1,7 @@
 # ayudantía-08
 
+viernes 06 octubre 2023
+
 ## resumen
 
 ![.](./img/ayud8-01.jpg)
