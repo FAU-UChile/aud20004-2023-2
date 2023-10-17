@@ -27,6 +27,10 @@ d) La longitud de onda
 
 e) La velocidad de propagación
 
+### solución
+
+![.](./img/Ayud-09-ej1.jpg)
+
 ## ejercicio-02
 
 una onda periódica de $5[Hz]$ y $3[m]$ se propaga en un medio avanzando $80[m]$ en $4[s]$. Determine:
@@ -38,6 +42,10 @@ b) Su período (T)
 c) Su longitud de onda ($\lambda$)
 
 d) Grafique la onda en el tiempo dibujando al menos dos ciclos. Marque la amplitud. Marque el tiempo cada vez que la onda cruza el eje "x".
+
+### solución
+
+![.](./img/Ayud-09-ej2.jpg)
 
 ## ejercicio-03
 
@@ -51,6 +59,10 @@ c) La velocidad de las ondas en la cuerda.
 
 d) Grafique la onda en el tiempo dibujando al menos dos ciclos. Marque el tiempo cada vez que la onda cruza el eje "x".
 
+### solución
+
+![.](./img/Ayud-09-ej3.jpg)
+
 ## ejercicio-04
 
 Una ambulancia lleva una velocidad de $40 [m/s]$. Su sirena emite un sonido con una frecuencia de $400 [Hz]$. 
@@ -60,6 +72,10 @@ Se cruza con un automóvil que transita en sentido contrario con una  velocidad 
 a) ¿Qué frecuencia percibirá el conductor del automóvil cuando los vehículos se aproximan? ¿Lo percibe más grave o más agudo?
 
 b) ¿y cuando se alejan? ¿Lo percibe más grave o más agudo?
+
+### solución
+
+![.](./img/Ayud-09-ej4.jpg)
 
 ## ejercicio-05
 
@@ -72,3 +88,7 @@ a) Dibuje sobre el gráfico las muestras que se obtienen.
 b) ¿La frecuencia de muestreo es suficiente para digitalizar la señal de forma correcta?
 
 c) ¿Cuál será la frecuencia de muestreo mínima para digitalizar correctamente la señal?
+
+### solución
+
+![.](./img/Ayud-09-ej5.jpg)
