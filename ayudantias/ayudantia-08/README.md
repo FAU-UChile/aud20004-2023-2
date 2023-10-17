@@ -14,14 +14,26 @@ viernes 06 octubre 2023
 
 Un globo tiene un volumen de 4 L de aire a 27 ºC. Se le escapa a un niño y sube a dos kilómetros de altura, donde la temperatura es de -5 ºC ¿Cual será ahora el volumen del globo suponiendo la misma presión?
 
+### solución
+
+![.](./img/Ayud-08-ej1.jpg)
+
 ## ejercicio-02
 
 ¿Cuántos recipientes de $200[L]$ a $2[atm]$ de presión podrán llenarse con el gas propano contenido en un depósito de $500.000[L]$, que está a una presión de $4[atm]$? Suponer temperatura constante.
+
+### solución
+
+![.](./img/Ayud-08-ej2.jpg)
 
 ## ejercicio-03
 
 Cuando una barra de metal es calentada de 20 ºC a 120 ºC, su longitud pasa de 1,5 m a 1,503 m. Calcule el coeficiente de
 dilatación lineal de la barra.
+
+### solución
+
+![.](./img/Ayud-08-ej3.jpg)
 
 ## ejercicio-04
 
@@ -31,6 +43,10 @@ recipiente cuando el mismo es calentado hasta $60 [°C]$. Considere el coeficien
 ¿Cuál será su volumen total a $60 [°C]$?
 
 ¿Cuál es el coeficiente de expansión lineal del recipiente?
+
+### solución
+
+![.](./img/Ayud-08-ej4.jpg)
 
 ## ejercicio-05
 
@@ -42,6 +58,10 @@ $c_{alcohol} = 2450 [\frac{J}{Kg °C}]$
 
 $densidad_{alcohol} =0,79 [Kg/L]$ 
 
+### solución
+
+![.](./img/Ayud-08-ej5.jpg)
+
 ## ejercicio-06
 
 Una figura de metal de $0.4 [Kg]$ que está a $180 [ºC]$ se enfría sumergiéndola en $1 [L]$ de agua a $10ºC$.
@@ -50,3 +70,6 @@ Si la temperatura de equilibrio resulta ser de $12[°C]$, determinar el calor es
 
 $c_{agua} = 4180 [\frac{J}{Kg °C}]$
 
+### solución
+
+![.](./img/Ayud-08-ej6.jpg)
