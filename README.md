@@ -70,8 +70,8 @@
 | [clase-09](clases/clase-09/)             | 2023-10-12 jueves  | unidad 6: ondas y sonido                      |
 | [ayudantia-09](ayudantias/ayudantia-09/) | 2023-10-13 viernes | unidad 6: ondas y sonido                      |
 | [clase-10](clases/clase-10/)             | 2023-10-19 jueves  | repaso unidades 5,6                           |
-| [ayudantia-10](ayudantias/ayudantia-10/) | 2023-10-20 viernes | evaluación: control 3, unidades 5,6           |
-| [clase-11](clases/clase-11/)             | 2023-10-26 jueves  | unidad 7: luz                                 |
+| [ayudantia-10](ayudantias/ayudantia-10/) | 2023-10-20 viernes | paro de estudiantes / evaluación: control 3, unidades 5,6           |
+| [clase-11](clases/clase-11/)             | 2023-10-26 jueves  | evaluación atrasada: control 3, unidades 5,6. clase, unidad 7: luz                                 |
 | [ayudantia-11](ayudantias/ayudantia-11/) | 2023-10-27 viernes | feriado, no hay ayudantía                     |
 | [clase-12](clases/clase-12/)             | 2023-11-02 jueves  | unidad 8: electricidad y magnetismo           |
 | [ayudantia-12](ayudantias/ayudantia-12/) | 2023-11-03 viernes | unidades 7 y 8                                |
