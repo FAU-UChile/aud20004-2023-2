@@ -71,14 +71,14 @@
 | [ayudantia-09](ayudantias/ayudantia-09/) | 2023-10-13 viernes | unidad 6: ondas y sonido                      |
 | [clase-10](clases/clase-10/)             | 2023-10-19 jueves  | repaso unidades 5,6                           |
 | [ayudantia-10](ayudantias/ayudantia-10/) | 2023-10-20 viernes | paro /control 3, unidades 5,6                 |
-| [clase-11](clases/clase-11/)             | 2023-10-26 jueves  | control 3, unidades 5,6                       |
+| [clase-11](clases/clase-11/)             | 2023-10-26 jueves  | control 3: unidades 5,6, unidad 7: luz        |
 | [ayudantia-11](ayudantias/ayudantia-11/) | 2023-10-27 viernes | feriado, no hay ayudantía                     |
-| [clase-12](clases/clase-12/)             | 2023-11-02 jueves  | unidad 7: luz                                 |
-| [ayudantia-12](ayudantias/ayudantia-12/) | 2023-11-03 viernes | unidad 7: luz                                 |
-| [clase-13](clases/clase-13/)             | 2023-11-09 jueves  | repaso unidad 7                               |
-| [ayudantia-13](ayudantias/ayudantia-13/) | 2023-11-10 viernes | unidad 8: electricidad y magnetismo           |
-| semana de trabajo autónomo               | 2023-01-13/19      | sin clases, trabajo de investigación          |
-| [clase-14](clases/clase-14/)             | 2023-11-23 jueves  | repaso unidad 8                               |
+| [clase-12](clases/clase-12/)             | 2023-11-02 jueves  | unidad 7: luz, unidad 8: electricidad         |
+| [ayudantia-12](ayudantias/ayudantia-12/) | 2023-11-03 viernes | unidad 7: luz,  unidad 8: electricidad        |
+| [clase-13](clases/clase-13/)             | 2023-11-09 jueves  | repaso unidades 7 y 8                         |
+| [ayudantia-13](ayudantias/ayudantia-13/) | 2023-11-10 viernes | no hay ayudantía presencial                   |
+| semana de trabajo autónomo               | 2023-01-13/19      | sin clases, entrega trabajo de investigación  |
+| [clase-14](clases/clase-14/)             | 2023-11-23 jueves  | repaso unidades 7 y 8                         |
 | [ayudantia-14](ayudantias/ayudantia-14/) | 2023-11-24 viernes | evaluación: control 4, unidades 7, 8          |
 | cierre acta                              | 2023-12-18         | plazo máximo envío actas                      |
 
