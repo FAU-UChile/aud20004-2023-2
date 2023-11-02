@@ -1,6 +1,5 @@
 # clase-11
 
-
 ## primera parte de la clase: control-03
 
 jueves 26 octubre 2023, presencial
@@ -186,24 +185,6 @@ HSV o HSB viene de la siglas en inglés de:
 modelo substractivo, basado en los colores cyan, magenta, amarillo, y negro.
 
 se le llama substractivo porque la tinta resta los colores rojo, verde y azul de la luz blanca.
-
-## colores y computadores
-
-un pixel RGB es capaz de brillar y con eso generar color.
-
-si tenemos B bits de resolución por canal de color, entonces un pixel tiene 3B bits para representar su color.
-
-entonces la cantidad de colores posibles en 1 pixel es:
-
-$$colores_{pixel}= 2^{3 \cdot B}$$
-
-si tenemos una pantalla de resolución 1080p, con 1920 por 1080 pixeles, entonces tenemos un total de.
-
-$$pixeles = 1920 \cdot 1080 = 2,073,600$$
-
-y cada uno de esos pixeles, puede ser de un color distinto, y necesitamos 3\*B bits de información para cada uno, y así definir su color.
-
-si tenemos una tasa de refresco de 60 Hz, significa que tenemos 60 cuadros por segundo.
 
 ## bibliografía
 
