@@ -1,6 +1,6 @@
 # trabajo-investigacion
 
-trabajo a desarrollar durante la semana de trabajo autónomo.
+trabajo de investigación durante la semana de trabajo autónomo.
 
 usando lo que hemos aprendido en el curso, elaborar un breve trabajo de investigación individual sobre alguna temática vista en clases en la intersección de física, diseño y tus intereses, incluyendo ecuaciones, imágenes creadas por ti, y referenciando y citando fuentes de investigación.
 
@@ -35,10 +35,10 @@ cada uno de estos puntos será evaluado con la siguiente resolución:
 
 - 3 puntos menos por cada día de atraso
 - 3 puntos menos por cada diapositiva extra
-- máximo 1 punto menos por faltas de ortografía
+- 1 punto menos por faltas de ortografía
 
 ## fecha de entrega
 
-durante la semana de trabajo autónomo, subiré una nota preliminar, para que tengan retroalimentación sobre lo que llevan. será avisada vía u-cursos.
+durante la semana de trabajo autónoms será publicada una nota preliminar, para que tengan retroalimentación sobre lo que llevan y tengan tiempo de mejorar su trabajo.
 
-la fecha de entrega final es el domingo 19 noviembre junio 2023 a las 11:59pm
+la fecha de entrega es el domingo 19 noviembre junio 2023 a las 11:59pm.
