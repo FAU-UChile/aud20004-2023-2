@@ -10,19 +10,29 @@ Una carga de $5 \cdot 10^{-6} [C]$ se encuentra a $3 [m]$ de una carga de $-10\c
 
 ¿Cuál es la magnitud de la fuerza de atracción entre las cargas?
 
-¿Es de atracción o repulsión?
+¿La fuerza es de atracción o repulsión?
+
+![.](./img/Ayud-11-1.jpg)
 
 ## ejercicio-02
 
-Una carga de $-4 \cdot 10^{-7} [C]$ ejerce una fuerza de $0.2 [N]$ a otra carga a una distancia de $3 [m]$ 
+Una carga de $-4 \cdot 10^{-7} [C]$ ejerce una fuerza de $0.2 [N]$ a otra carga a una distancia de $0.3 [m]$ 
 
 ¿Cuál es el valor de la segunda carga? 
 
+¿$q_2$ tiene carga positiva o negativa? 
+
+¿Las cargas se atraen o se repelen?
+
+![.](./img/Ayud-11-2.jpg)
+
 ## ejercicio-03
 
-Dos cargas de $2.2 \cdot 10^{-6} [C]$ y $7\cdot10^{-6} [C]$ se atraen con una fuerza de $10[N]$.
+Dos cargas de $-2.2 \cdot 10^{-6} [C]$ y $7\cdot10^{-6} [C]$ se atraen con una fuerza de $-10[N]$.
 
 ¿A qué distancia se encuentran separadas? 
+
+![.](./img/Ayud-11-3.jpg)
 
 ## ejercicio-04
 
@@ -36,40 +46,53 @@ $$q_{electron} = 1.6 \cdot 10^{-19} \cdot Coulomb$$
 
 $$K \approx 9 \cdot 10^9 \cdot \frac{N \cdot m^2}{C^2}$$
 
+![.](./img/Ayud-11-4.jpg)
+
 ## ejercicio-05
 
-a) si el voltaje domiciliario en Chile es de $220 [V]$, y la corriente máxima que puede brindar un enchufe es de $10 [A]$ ¿cuánta es la potencia máxima que puede brindarnos?
+a) si el voltaje domiciliario en Chile es de $220 [V]$, y la corriente máxima que puede brindar un enchufe es de $10 [A]$ ¿cuánta es la potencia máxima que puede brindarnos? exprese el resultado en KiloWatts $[kW]$.
 
-b) si un refrigerador consume una potencia promedio de $50 [W]$. ¿cuánta corriente le pide al enchufe? ¿cuánto gasta en pesos en un mes si $1[KWh] = 100 [CLP]$?
+b) si un refrigerador consume una potencia promedio de $50 [W]$: 
+
+- ¿cuánta corriente le pide al enchufe? 
+- ¿cuántos [KWh] consume al mes? 
+- ¿cuánto cuesta tenerlo prendido un mes entero si $1[KWh] = 100 [CLP]$?
+
+![.](./img/Ayud-11-5.jpg)
 
 ## ejercicio-06
-
-a) si tenemos una batería de voltaje 1.5V y capacidad de 1,200 mAh ¿cuánta carga tiene en Coulombs?
-
-b) si la batería la usamos para alimentar un circuito que consume una potencia de $50 [mW]$, cuánta corriente extrae de la batería? y cuánto se demora la batería en descargarse?
-
-## ejercicio-07
 
 calcule la profundidad de color (cantidad de bits por pixel) y la cantidad total de colores que pueden representar los siguientes formatos de imágen digital:
 
 a) blanco y negro
+
 b) escala de grises a 2 bits por canal
+
 c) escala de grises a 4 bits por canal
+
 d) escala de grises a 8 bits por canal
+
 e) RGB a 8 bits por canal
+
 f) CMYK a 8 bits por canal
+
 g) RGB a 10 bits por canal
+
 h) CMYK a 12 bits por canal
 
-## ejercicio-08
+![.](./img/Ayud-11-6.jpg)
 
-se tiene una imágen digital de 800 x 600 pixeles en formato CMYK de 10 bits por canal.
+## ejercicio-07
+
+se tiene una imágen digital de 800 x 600 pixeles en formato CMYK de 8 bits por canal.
 
 La imágen ocupa mucha memoria. Se decide comprimirla en formato JPG y su tamaño original se logra reducir en un 32%  
 
 ¿cuánta memoria en megabytes (MB) ocupa la imágen comprimida?
 
-## ejercicio-09
+![.](./img/Ayud-11-7.jpg)
+
+## ejercicio-08
 
 Para una transmisión de video de:
 
@@ -80,6 +103,8 @@ Para una transmisión de video de:
 
 a) ¿cuánta memoria ocupa en bits?
 
-b) ¿cuánto tiempo demorará en transmitirse el video si tenemos una conexión a internet de 1 [Megabits/s]?
+b) ¿cuánto tiempo demorará en transmitirse el video si tenemos una conexión a internet de 1 [Gigabits/s]?
 
-## ejercicio-10
+![.](./img/Ayud-11-8.jpg)
+
+## ejercicio-09

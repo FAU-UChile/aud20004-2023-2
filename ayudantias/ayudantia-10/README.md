@@ -56,17 +56,3 @@ d) Si la imagen se comprime en formato JPG y el tamaño original se logra reduci
 
 ![.](./img/Ayud-10-4.jpg)
 
-## ejercicio-04
-
-Para una transmisión de video de:
-
-- 2 minutos de duración
-- 24 cuadros por segundo
-- resolución de 800 x 600 pixeles por cuadro
-- colores RGB de 4 bits por canal
-
-a) ¿cuánta memoria ocupa en bits?
-
-b) ¿cuánto tiempo demorará en transmitirse el video si tenemos una conexión a internet de 1 [Megabits/s]?
-
-![.](./img/Ayud-10-5.jpg)
