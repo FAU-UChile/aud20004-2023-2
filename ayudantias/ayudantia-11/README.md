@@ -4,6 +4,10 @@ jueves 9 noviembre 2023
 
 ## resumen
 
+![.](./img/Ayud-11-0.jpg)
+
+![.](./img/Ayud-10-1.jpg)
+
 ## ejercicio-01
 
 Una carga de $5 \cdot 10^{-6} [C]$ se encuentra a $3 [m]$ de una carga de $-10\cdot10^{-6} [C]$
@@ -108,3 +112,9 @@ b) ¿cuánto tiempo demorará en transmitirse el video si tenemos una conexión 
 ![.](./img/Ayud-11-8.jpg)
 
 ## ejercicio-09
+
+a) ¿cuánta distancia recorre la luz en el vacío durante 10 minutos? exprese la respuesta en kilómetros $[Km]$.
+
+b) ¿cuántos minutos demora la luz del sol en llegar a la tierra si la distancia entre ambos astros es de $150.000.000 \ [Km]$? 
+
+![.](./img/Ayud-11-9.jpg)
