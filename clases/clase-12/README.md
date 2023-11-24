@@ -1,6 +1,6 @@
 # clase-12
 
-jueves 02 noviembre 2022, presencial
+jueves 02 noviembre 2023, presencial
 
 ## colores y computadores
 
